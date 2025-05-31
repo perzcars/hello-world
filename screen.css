@@ -9,7 +9,11 @@ body {
 
 main {
     margin: 0 auto;
-    width: 80%;
+    width: 800px;
+}
+
+.details {
+    display: flex;
 }
 
 img {
