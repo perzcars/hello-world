@@ -12,6 +12,13 @@ main {
     width: 800px;
 }
 
+.masthead {
+    background-image: url('images/mac.jpg');
+    background-position: bottom;
+    height: 200px;
+    border-radius: 20px;
+}
+
 .details {
     display: flex;
     gap: 25px;
